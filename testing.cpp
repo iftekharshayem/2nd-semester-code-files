@@ -6,6 +6,7 @@ int main() {
     cin.tie(NULL);
 
     cout<<"i dont know what is going on";
+    cout<<"this file is for test";
 
     return 0;
 }
